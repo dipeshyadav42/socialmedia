@@ -1,0 +1,17 @@
+#header{
+    background:#5B2C6F ;
+    padding: 15px 0px;
+}
+#header button{
+    float: right;
+}
+#header h4{
+    color: #A9DFBF;
+}
+#footer{
+    background: #5B2C6F ;
+}
+#footer h5{
+    color: #212F3C;
+    text-align: center;
+}
